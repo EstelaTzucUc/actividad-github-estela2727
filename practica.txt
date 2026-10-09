@@ -1,0 +1,4 @@
+GitHub sirve para colaborar 
+en proyectos, compartir código 
+y mantener un historial de 
+cambios organizados
